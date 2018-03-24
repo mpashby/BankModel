@@ -1,7 +1,4 @@
 //Michele Pashby
-//CS 62 HW 1
-//ID 30335753
-//mpashby19@cmc.edu;
 
 package ps1_PashbyMichele;
 import java.util.*;
