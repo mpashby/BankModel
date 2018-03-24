@@ -1,8 +1,5 @@
-/*Michele Pashby
- * CS 62
- * ID 30335753
- * mpashby19@cmc.edu
- */
+//Michele Pashby 
+
 package ps1_PashbyMichele;
 
 public class BankTestDriver {
